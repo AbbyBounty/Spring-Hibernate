@@ -41,7 +41,10 @@
 
 ### Day 7
     >Hibernate relations
-    > @OneToMany  >@ManyToOneμ >@ManyToMany > @OneToOne 
+    > @OneToMany 
+    >@ManyToOneμ 
+    >@ManyToMany 
+    > @OneToOne 
     >HQL Joins a 
     >Hibernate Inheritance
     > @MappedSuperclass 
@@ -49,7 +52,8 @@
 
 ### Day 8
     >HQL Joins 
-    >Hibernate Inheritance >@MappedSuperclass 
+    >Hibernate Inheritance 
+    >@MappedSuperclass 
     >@Inheritance 
     >Forward engineering vs Reverse engineering 
     >Using Hibernate in Java EE application 
@@ -61,7 +65,8 @@
     >JNDI connection pool 
     >Hibernate caching 
     >SessionFactory cache 
-    >JPA > EntityManager and EntityManagerFactory  
+    >JPA 
+    > EntityManager and EntityManagerFactory  
     > Entity life cycle 
 
 ### Day 10
