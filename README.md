@@ -132,7 +132,7 @@
     • Spring Conditional configuration 
     • Spring Boot Introduction 
 
-  ### Day 18  
+  ### Day 19  
     Spring Boot Introduction
      Spring Data Architecture 
     • Spring Data JPA 
