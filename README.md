@@ -96,11 +96,48 @@
  ### Day 14
     Spring MVC.
 
- ### Day 14
+ ### Day 15
     Spring MVC.
     • Session and Request scoped beans it 
     • File upload and download : 
-    • @RequestMapping • Internationalization / Localization 
-    • Validation • Spring exception handling • Static resources in Web MVC 
+    • @RequestMapping 
+    • Internationalization / Localization 
+    • Validation 
+    • Spring exception handling 
+    • Static resources in Web MVC 
     • MVC using Annotation config 
 
+ ### Day 16
+    Spring MVC.
+    • Spring exception handling 
+    • Static resources in Web MVC 
+    • MVC using Annotation config 
+    • MVC security 
+    • REST introduction 
+    • @RestController 
+    • RestTemplate
+    
+   ### Day 17
+    • Spring exception handling 
+    • Static resources in Web MVC : 
+    • MVC using Annotation config
+    • MVC security - 
+    • REST introduction - 
+    • @RestController 
+    • RestTemplate 
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
