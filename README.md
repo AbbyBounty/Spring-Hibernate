@@ -126,9 +126,19 @@
     • @RestController 
     • RestTemplate 
 
-    
-    
-    
+   ### Day 18   
+    • RestTemplate 
+    • Spring AOP 
+    • Spring Conditional configuration 
+    • Spring Boot Introduction 
+
+  ### Day 18  
+    Spring Boot Introduction
+     Spring Data Architecture 
+    • Spring Data JPA 
+    • Spring Test
+    Spring  REST services 
+
     
     
     
